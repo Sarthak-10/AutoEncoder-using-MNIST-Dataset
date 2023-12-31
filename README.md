@@ -1,5 +1,9 @@
 # AutoEncoder-using-MNIST-Dataset
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](AutoEncoder.ipynb)
+
+:star:**Please star the repository if you happen to like the project**
+
 The ipynb file contains the solution to the attached Problem Statement.
 
 It contains the implementation of an AutoEncoder using the MNIST Dataset.
